@@ -30,7 +30,7 @@ open public/index.html
 ## Option 2 : localhost:8080
 ```bash
 node index.js
-
+```
 
 Tested with `npm` `6.13.7` and `node` `v13.8.0`.
 
